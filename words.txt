@@ -1,0 +1,4 @@
+indigo
+yellow
+violet
+orange
