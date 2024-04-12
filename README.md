@@ -11,4 +11,4 @@ Hangman game created using C++.
 - Clone the repository
 - Execute Hangman.cpp file in your C++ compiler.
 
-[project-screenshot]: hangman.png
+[project-screenshot]:hangman.png
