@@ -1,0 +1,1 @@
+Hangman is just a simple word guessing game.
