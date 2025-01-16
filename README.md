@@ -12,3 +12,4 @@ Hangman game created using C++.
 - Execute Hangman.cpp file in your C++ compiler.
 
 [project-screenshot]:hangman.png
+![Project Screenshot][project-screenshot]
